@@ -1,0 +1,37 @@
+.bio-social{
+    width: 100%;
+    height: 40px;
+    margin-top: 4px;
+    display: flex;
+  }
+  .social-box{
+    width: 28px;
+    height: 28px;
+  
+    margin-right: 6px;
+  }
+  .social-box > a > i{
+    width: 28px;
+    height: 28px;
+    font-size: 17px;
+    color: #ffffff;
+    padding: 6px;
+  }
+  .circle{
+    border-radius: 50%;
+  }
+  .social-box> a > i.fa-twitter-square{
+    background-color: #4099FF;
+  }
+  .social-box > a > i.fa-linkedin-square{
+    background-color: #0077B5;
+  }
+  .social-box > a > i.fa-list-alt{
+    background-color: #e26d26;
+  }
+  .social-box > a > i.fa-facebook-square{
+    background-color: #3B5998;
+  }
+  .social-box > a > i.fa-envelope{
+    background-color: #7fa046;
+  }
